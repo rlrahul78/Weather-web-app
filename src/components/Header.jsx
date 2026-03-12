@@ -33,7 +33,7 @@ const Header = () => {
           <div className="text-2xl">Weather</div>
           {!isMobile && (
             <div className="text-lg ml-2 text-gray-500 dark:text-gray-400">
-              by Rahul Yadav
+              by Rahul Kumar Yadav
             </div>
           )}
         </div>
@@ -100,7 +100,7 @@ const Header = () => {
                 <span className="">
                   This project is developed and maintained by
                 </span>
-                <span className="font-bold text-2xl">Harsh Priye</span>
+                <span className="font-bold text-2xl">Rahul Yadav</span>
               </div>
               <div className="w-full flex items-center justify-center gap-2 flex-wrap">
                 <div
