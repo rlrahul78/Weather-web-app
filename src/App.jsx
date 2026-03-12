@@ -196,7 +196,7 @@ const App = () => {
 							</div> : null}
 						</div>
 					</div> : (loading ? <div className='flex items-center justify-center h-[50vh] w-full'><Spin size='large'/></div> : 
-					<div className='flex items-center justify-center h-[50vh] w-full'>Unable to fetch loaction info...</div>)}
+					<div className='flex items-center justify-center h-[50vh] w-full'>Unable to fetch loaction information...</div>)}
 				</Card>
 			</div>
 		</div>
